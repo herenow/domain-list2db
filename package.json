@@ -1,0 +1,17 @@
+{
+  "name": "domain-list2db",
+  "version": "0.0.0",
+  "description": "Utility script to parse domain list files to the database",
+  "main": "list2crate.js",
+  "dependencies": {
+    "cratejs": "^0.2.13",
+    "event-stream": "^3.1.7",
+    "optimist": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
